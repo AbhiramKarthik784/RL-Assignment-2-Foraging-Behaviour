@@ -1,0 +1,5 @@
+Evaluation results (200 episodes, 60 steps each)
+Q-learning: mean=100.000, std=0.000
+Random: mean=45.280, std=9.187
+Heuristic: mean=102.500, std=0.000
+Q-learning final training moving average: 97.237
